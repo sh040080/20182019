@@ -1,6 +1,7 @@
 #  CHAPTER_ 01 Start! java
 
-1 Java 언어의 탄생  \n
+1 Java 언어의 탄생
+
     1)JAVA 언어의 탄생
     2) JAVA 언어의 특징
 2 자바의 환경설정과 실행
