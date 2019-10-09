@@ -1,4 +1,4 @@
-# - [X] CHAPTER_ 01 Start! java
+- [X] # CHAPTER_ 01 Start! java
 
 1 Java 언어의 탄생
 
@@ -17,7 +17,7 @@
 
 
 
-# - [X] CHAPTER_ 02 기본 자료형
+- [X] # CHAPTER_ 02 기본 자료형
 
 1 식별자(Identifiers)와 키워드
 
@@ -41,7 +41,7 @@
 
 
 
-# - [X] CHAPTER_ 03 연산자(Operator)
+- [X] # CHAPTER_ 03 연산자(Operator)
 
 1 연산자와 우선순위
 
@@ -66,7 +66,7 @@
 
 
 
-# - [ ] CHAPTER_ 04 자바의 제어문
+- [ ] # CHAPTER_ 04 자바의 제어문
 
 1 조건문
 
@@ -92,7 +92,7 @@
 
 
 
-# - [ ] CHAPTER_ 05 배열(Array)
+- [ ] # CHAPTER_ 05 배열(Array)
 
 1 일차원 배열
 
@@ -111,7 +111,7 @@
 
 
 
-# - [X] CHAPTER_ 06 클래스와 객체 배열
+- [X] # CHAPTER_ 06 클래스와 객체 배열
 
 1 객체(Object)
 
@@ -133,7 +133,7 @@
 
 
 
-# - [X] CHAPTER_ 07 상속(Inheritance)
+- [X] # CHAPTER_ 07 상속(Inheritance)
 1 상속(Inheritance)
 
     1)상속의 개념
@@ -155,7 +155,7 @@
 
 
 
-# - [X] CHAPTER_ 08 다형성(Polymorphism)
+- [X] # CHAPTER_ 08 다형성(Polymorphism)
 1 다형성(Polymorphism)이란?
 
 2 추상클래스(abstract class)
@@ -172,7 +172,7 @@
 
 
 
-# - [ ] CHAPTER_ 09 예외처리(Exception)
+- [ ] # CHAPTER_ 09 예외처리(Exception)
 
 1 예외(Exception)란?
 
@@ -188,7 +188,7 @@
 
 
 
-# - [ ] CHAPTER_ 10 java.lang과 Annotation
+- [ ] # CHAPTER_ 10 java.lang과 Annotation
 
 1 java.lang 패키지
 
@@ -217,7 +217,7 @@
 
 
 
-# - [ ] CHAPTER_ 11 컬렉션과 유틸리티
+- [ ] # CHAPTER_ 11 컬렉션과 유틸리티
 1 제네릭
 
 2 자바의 컬렉션
@@ -238,7 +238,7 @@
 
 
 
-#  - [ ] CHAPTER_ 12 람다와 Stream API
+- [ ] # CHAPTER_ 12 람다와 Stream API
 1 람다(LAMBDA)식
 
     1)함수 인터페이스와 람다식 표현식
@@ -255,7 +255,7 @@
 
 
 
-#  - [ ] CHAPTER_ 13 Thread
+- [ ] # CHAPTER_ 13 Thread
 1 스레드(Thread)
 
     1)스레드와 프로세스
@@ -275,7 +275,7 @@
 
 
 
-# - [ ] CHAPTER_ 14 자바의 입/출력
+- [ ] # CHAPTER_ 14 자바의 입/출력
 
 1 입 ? 출력 IO
 
@@ -297,7 +297,7 @@
 
 
 
-# - [ ] CHAPTER_ 15 자바의 GUI
+- [ ] # CHAPTER_ 15 자바의 GUI
 1 AWT
 
     1)AWT 패키지
@@ -321,7 +321,7 @@
 
 
 
-# - [ ] CHAPTER_ 16 자바의 네트워크
+- [ ] # CHAPTER_ 16 자바의 네트워크
 
 1 네트워크의 개념
 
